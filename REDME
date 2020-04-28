@@ -1,0 +1,8 @@
+HPOW TO RUN
+
+test run -
+./mvnw clean test
+
+allure report run -
+./mvnw allure:serve
+
